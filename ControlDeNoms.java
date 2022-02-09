@@ -12,6 +12,7 @@ public class ControlDeNoms {
         
         Scanner scan = new Scanner(System.in);
 
+
         System.out.println("Introdueixi un nom (EXIT per tancar)");
         String input = scan.nextLine();
         boolean isName = false;
